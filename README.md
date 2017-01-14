@@ -1,3 +1,3 @@
-# gitstudy2
+# gitstudy2　コンフリクト
 
 もりちゃん参上！！！
